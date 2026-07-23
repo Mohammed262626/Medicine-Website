@@ -1,0 +1,6 @@
+{
+  "name": "Kassala Medicine Portal",
+  "description": "بوابة رقمية تفاعلية تخدم كلية الطب بجامعة كسلا، أقسامها الأكاديمية، ورابطة الطلاب (KaMSA)، وتسهل التنسيق الإداري والأكاديمي والإعلامي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
